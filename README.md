@@ -8,4 +8,4 @@
 * Позиционирование элементов
 * Анимации и трансформации
 
-Посмотреть проект можно [тут](https://cujjjodoesntexist.github.io/learn-how-to-learn/)
+Посмотреть проект можно [тут]([https://cujjjodoesntexist.github.io/learn-how-to-learn/](https://cujjjodoesntexist.github.io/Learn-to-learn-practicum.yandex/))
